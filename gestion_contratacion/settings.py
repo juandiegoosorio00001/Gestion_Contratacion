@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7o0$nek_42+75ez3ekhk67(7kt7p@%38#jltu1!1u0nje#bxe@
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "gestion-contratacion-4elikx95j-m4yfamas2000-8292s-projects.vercel.app",
+    "https://gestion-contratacion-git-main-m4yfamas2000-8292s-projects.vercel.app",
 ]
 
 
